@@ -73,7 +73,8 @@ input:focus {
     color: white;
     width: 0;
     text-align: center;
-    transition: 0.2s linear;
+    transition: 0.2s ease ;
+    animation : 1s linear ;
     opacity: 0;
     display: inline-block;
 }
